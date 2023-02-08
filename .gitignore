@@ -2,16 +2,19 @@
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
 # Temporary files
+*-backups/
+*-save.kicad_pcb
+*-save.pro
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.kicad_sch-bak
 *.sch-bak
-*~
-_autosave-*
 *.tmp
-*-save.pro
-*-save.kicad_pcb
+*~
+\#auto_saved_files\#
+_autosave-*
 fp-info-cache
 
 # Netlist files (exported from Eeschema)
@@ -24,11 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
-
-# Footprint libraries
-Keebio-Parts.pretty
-MX_Alps_Hybrid
-ProMicroKiCad
 
 # output folder and files
 gerber_to_order/
