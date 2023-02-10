@@ -595,6 +595,7 @@
     )
   )
 
+
   (junction (at 57.15 45.72) (diameter 0) (color 0 0 0 0)
     (uuid 0078b429-38fd-428b-9af3-74b77209f43e)
   )
@@ -2518,7 +2519,7 @@
     (uuid 3921fc0d-e37b-496e-a2dc-94330d12dbda)
     (property "Reference" "SW_POWER1" (id 0) (at 201.93 117.221 0))
     (property "Value" "SW_SPDT" (id 1) (at 201.93 119.5324 0))
-    (property "Footprint" "* duckyb-collection:SPDT_C128955" (id 2) (at 201.93 124.46 0)
+    (property "Footprint" "marbastlib-various:SW_MSK12C02-HB" (id 2) (at 201.93 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 201.93 124.46 0)
@@ -2746,7 +2747,7 @@
     (uuid 527e5467-04a2-48e0-afae-f95895b2f459)
     (property "Reference" "SW_POWER0" (id 0) (at 201.93 27.051 0))
     (property "Value" "SW_SPDT" (id 1) (at 201.93 29.3624 0))
-    (property "Footprint" "* duckyb-collection:SPDT_C128955" (id 2) (at 201.93 34.29 0)
+    (property "Footprint" "marbastlib-various:SW_MSK12C02-HB" (id 2) (at 201.93 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 201.93 34.29 0)
@@ -4102,10 +4103,10 @@
       (reference "SW34") (unit 1) (value "Kailh-Choc") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/527e5467-04a2-48e0-afae-f95895b2f459"
-      (reference "SW_POWER0") (unit 1) (value "SW_SPDT") (footprint "* duckyb-collection:SPDT_C128955")
+      (reference "SW_POWER0") (unit 1) (value "SW_SPDT") (footprint "marbastlib-various:SW_MSK12C02-HB")
     )
     (path "/3921fc0d-e37b-496e-a2dc-94330d12dbda"
-      (reference "SW_POWER1") (unit 1) (value "SW_SPDT") (footprint "* duckyb-collection:SPDT_C128955")
+      (reference "SW_POWER1") (unit 1) (value "SW_SPDT") (footprint "marbastlib-various:SW_MSK12C02-HB")
     )
     (path "/22166c71-edfc-4617-b73f-3dc820876130"
       (reference "U1") (unit 1) (value "nice_nano") (footprint "* duckyb-collection:nice_nano")
