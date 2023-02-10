@@ -4,3 +4,6 @@
 [submodule "lib/ai03"]
 	path = lib/ai03
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "lib/random-keyboard-parts/random-keyboard-parts.pretty"]
+	path = lib/random-keyboard-parts/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
