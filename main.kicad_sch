@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Urchin on Steroids")
+    (title "Ursa - Urchin on Steroids")
     (rev "v1.0")
   )
 
