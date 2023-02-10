@@ -23,9 +23,9 @@ jobs:
         # optional - prefix to output defined in config
         dir: gallery/
         # optional - schematic file
-        schema: 'main.kicad_sch'
+        schema: 'ursa.kicad_sch'
         # optional - PCB design file
-        board: 'main.kicad_pcb'
+        board: 'ursa.kicad_pcb'
     # UPDATE GALLERY
     - name: Update gallery
       uses: stefanzweifel/git-auto-commit-action@v4.14.1

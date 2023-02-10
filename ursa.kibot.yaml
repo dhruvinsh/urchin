@@ -17,7 +17,7 @@ outputs:
   - name: pcb_top_b
     comment: "PCB render top blue"
     type: pcbdraw
-    dir: main/
+    dir: ursa/
     options:
       format: png
       style: set-blue-enig
@@ -26,7 +26,7 @@ outputs:
   - name: pcb_bot_b
     comment: "PCB render bottom blue"
     type: pcbdraw
-    dir: main/
+    dir: ursa/
     options:
       format: png
       style: set-blue-enig
