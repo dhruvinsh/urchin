@@ -1,6 +1,6 @@
 # Ursa - Urchin on Steroids
 
-![PCB Preview](./gallery/main/main-top.png)
+![PCB Preview](./gallery/ursa/ursa-top.png)
 
 <span>
   <img src="https://img.shields.io/github/last-commit/duckyb/urchin?style=flat-square">
