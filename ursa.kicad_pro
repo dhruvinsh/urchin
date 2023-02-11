@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "main.kicad_pro",
+    "filename": "ursa.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "C:/Users/dhruv/Desktop/main.dsn",
-      "step": "",
+      "step": "3d/ursa.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
